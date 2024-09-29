@@ -1,0 +1,15 @@
+* { 
+  font-family: sans-serif, serif;
+}
+
+.image.main-food{
+  width: 300px;
+  height: auto;
+}
+
+ul li{
+  color: lightseagreen;
+}
+ol li{
+  color: lightcoral;
+}
